@@ -1,2 +1,2 @@
-# cema_backend
+# hapi_boilerplate with swagger
 
