@@ -34,7 +34,7 @@
     "randomstring": "^1.1.5",
     "request": "^2.87.0",
     "socket.io": "^2.3.0",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "vision": "4.1.1"
   }
 }
