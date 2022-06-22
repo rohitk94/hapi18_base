@@ -14,7 +14,7 @@
     "@hapi/inert": "^5.2.2",
     "@hapi/joi": "^16.1.7",
     "@hapi/vision": "^5.5.4",
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "boom": "^6.0.0",
     "fcm-node": "^1.5.2",
     "fs-extra": "^3.0.1",
